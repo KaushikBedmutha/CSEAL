@@ -1,2 +1,2 @@
 # CSEAL
-Exploiting congnitive structure for adaptive learning
+Congnitive Structure Enhanced Framework For Adaptive Learning 
